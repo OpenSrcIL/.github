@@ -15,7 +15,7 @@ Welcome to OpenSrcIL! Israeli Hitech, open sourced!
 
 We are a group of individuals decided to share from our knowledge and experience to everyone! 
 
-We beleive that the in the process of creation and spreading out good, it echoes on and on. 
+We believe that the in the process of creation and spreading out good, it echoes on and on. 
 
 You'll find here full tutorials about different roles and positions in the Hitech industry, articles in an order that makes sense useful tips and hidden easter eggs! 
 
