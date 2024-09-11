@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🇮🇱
 
 <!--
 
@@ -11,8 +11,8 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## Welcome to OpenSrcIL! 
-### Israeli Hitech, open sourced! 
+### Welcome to 🇮🇱 OpenSrcIL 🇮🇱 
+Israeli Hitech, open sourced! 
 
 We are a group of individuals decided to share from our knowledge and experience to everyone! 
 
